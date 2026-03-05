@@ -66,12 +66,8 @@ Custom Odoo module for transport mission management, optimized with AI via Gemin
 
 <div align="center">
 
-<a href="https://github.com/SamirTaous">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SamirTaous&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/SamirTaous">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirTaous&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" />
-</a>
+![Samir's GitHub Stats]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirtaous)](https://github.com/anuraghazra/github-readme-stats))
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirTaous&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
