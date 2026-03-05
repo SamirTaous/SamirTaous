@@ -1,89 +1,13 @@
-<div align="center">
-
-# سمير — Samir Taous
-
-**Full-Stack Engineer & AI Enthusiast**
-*Building scalable apps at the intersection of software and intelligence*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-samir--taous.vercel.app-black?style=flat-square&logo=vercel)](https://samir-taous.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SamirTaous-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/SamirTaous)
-[![Email](https://img.shields.io/badge/Email-samirtaous01@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:samirtaous01@gmail.com)
-
-</div>
-
+# 💫 About Me:
+I'm a final-year Software Engineering student at FST Tanger, passionate about building user-centered, production-grade applications. I work across the full stack, from React frontends to Java/Python backends, with a growing focus on AI integration and LLM-powered features.<br>    🎓 Cycle Ingénieur — Logiciels & Systèmes Intelligents<br>    🏢 Former intern at STG Telematics — built custom Odoo modules & integrated Gemini API<br>    🌍 Based in Tanger, Morocco — open to remote opportunities worldwide<br>    🔍 Currently looking for a PFE internship (6 months)<br>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SamirTaous) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samirtaous01@gmail.com) 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SamirTaous&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SamirTaous&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirTaous&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
-
-### 👨‍💻 About Me
-
-I'm a final-year Software Engineering student at **FST Tanger**, passionate about building user-centered, production-grade applications. I work across the full stack — from React frontends to Java/Python backends — with a growing focus on **AI integration** and **LLM-powered features**.
-
-- 🎓 Cycle Ingénieur — Logiciels & Systèmes Intelligents
-- 🏢 Former intern at **STG Telematics** — built custom Odoo modules & integrated Gemini API
-- 🌍 Based in **Tanger, Morocco** — open to remote opportunities worldwide
-- 🔍 Currently looking for a **PFE internship** (6 months)
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-`JavaScript` `Python` `Java` `C++` `SQL` `C#`
-
-**Frontend & Mobile**
-`React.js` `React Native` `HTML/CSS` `Unity`
-
-**Backend & APIs**
-`Spring Boot` `Node.js` `FastAPI` `Flask` `Odoo` `REST APIs`
-
-**Databases**
-`PostgreSQL` `MySQL` `MongoDB` `Oracle DB`
-
-**AI & ML**
-`TensorFlow` `PyTorch` `OpenAI API` `Gemini API` `CNNs` `RNNs`
-
-**DevOps & Tools**
-`Docker` `Git` `Postman` `Figma` `VS Code`
-
----
-
-### 🚀 Featured Projects
-
-#### 🏦 [FinTech Cloud-Native Dashboard](https://github.com/SamirTaous/fintech-dashboard)
-Microservices architecture with interactive dashboards and an AI loan classification model.
-`React.js` `Java` `Spring Boot` `Jupyter` `REST API`
-
-#### 🎮 [Educational Unity Game with AI](https://github.com/SamirTaous/educational_unity_game)
-Mobile educational game with LLM-powered question generation from PDFs and automatic answer correction.
-`Unity (C#)` `Python` `Flask` `Generative AI` `MongoDB`
-
-#### 🚛 [Odoo Transport Management](https://github.com/SamirTaous/odoo-transport-management)
-Custom Odoo module for transport mission management, optimized with AI via Gemini API.
-`Python` `JavaScript` `Odoo` `LLMs`
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-[![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirtaous)](https://github.com/samirtaous/github-readme-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirTaous&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
-### 🌐 Languages
-
-🇲🇦 Tamazight & Arabic — Native
-🇬🇧 English — Advanced (C1)
-🇫🇷 French — Advanced (C1)
-🇪🇸 Spanish — Basic
-
----
-
-<div align="center">
-
-*"Build things that matter."*
-
-</div>
+[![](https://visitcount.itsvg.in/api?id=SamirTaous&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
