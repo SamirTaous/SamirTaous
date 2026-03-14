@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm a final-year Software Engineering student at FST Tanger, passionate about building user-centered, production-grade applications. I work across the full stack, from React frontends to Java/Python backends, with a growing focus on AI integration and LLM-powered features.<br>    🎓 Cycle Ingénieur — Logiciels & Systèmes Intelligents<br>    🏢 Former intern at STG Telematics — built custom Odoo modules & integrated Gemini API<br>    🌍 Based in Tanger, Morocco — open to remote opportunities worldwide<br>    🔍 Currently looking for a PFE internship (6 months)<br>
+# About Me:
+Final-year Software Engineering student at FST Tanger, focused on building production-ready applications. Full-stack developer working with modern web technologies and exploring AI integration.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SamirTaous) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samirtaous01@gmail.com) 
 # 💻 Tech Stack:
